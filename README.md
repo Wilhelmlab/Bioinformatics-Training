@@ -1,4 +1,4 @@
-This github repository was cloned as a reference for Coy et al. 2020 Frontiers in Microbiology. It is a direct copy and has not been modified in any way from the original content, excluding this statement.
+This github repository was cloned as a reference for Coy et al. 2020 Frontiers in Microbiology. It is a direct copy and has not been modified in any way from the original content, excluding this statement. Dated: 04-27-2020
 
 Bioinformatics Training
 =======================
